@@ -1,4 +1,2 @@
-Type
-Use northwind;
-Select*from category where
-categoryID=5;
+use northwind;
+select * from category where categoryID=5;
